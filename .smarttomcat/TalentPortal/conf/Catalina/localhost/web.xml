@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Context docBase="C:\Users\ayush.patidar\Downloads\apache-tomcat-9.0.102-windows-x64\apache-tomcat-9.0.102">
+  <Resources cacheMaxSize="10240">
+    <PreResources base="C:/Users/ayush.patidar/IdeaProjects/Advance Java/target/classes" className="org.apache.catalina.webresources.DirResourceSet" webAppMount="/WEB-INF/classes"/>
+  </Resources>
+</Context>
